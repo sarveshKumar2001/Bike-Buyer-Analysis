@@ -1,1 +1,1 @@
-![To-Do App Screenshot](Bike/buyers.png)
+![To-Do App Screenshot](Bikebuyers.png)
